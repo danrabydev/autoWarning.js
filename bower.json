@@ -1,0 +1,17 @@
+{
+  "name": "autoWarning.js",
+  "version": "1.0.0",
+  "homepage": "http://momba.github.io/autoWarning.js/",
+  "authors": [
+    "Momba"
+  ],
+  "description": "A minimal jQuery modal that automatically shows and loads jQuery if needed.",
+  "main": "jquery.autoWarning.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
